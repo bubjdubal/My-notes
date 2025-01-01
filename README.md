@@ -1,2 +1,2 @@
-# My-notes
-Save my notes
+# 简介
+本仓库用于存放笔记
