@@ -4,7 +4,7 @@
 
 - 持续洞见
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/bubjdubal/My-notes)
 
 <!-- 背景色 -->
 ![color](#f0f0f0)
